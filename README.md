@@ -1,2 +1,2 @@
 # How to deconvolve fluorescence spectra with python
-# For github xloning experience
+# For github cloning experience
